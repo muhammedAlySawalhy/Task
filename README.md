@@ -21,7 +21,7 @@
  </li>
  </ol>
 </h3>
-# LIBRARIES USED
+<h2> LIBRARIES USED </h2>
  <h3>In frontend there is tailwind css ,axios to send http requests,react icons for icons,redux as global state ,react toastify,dotenv for env vars,socket io to connect to websocket channel and start direct communication with backend,testing library for testing:but:
   any official project should be well tested but as time and requesities of this task ther is no tests
  </h3>
