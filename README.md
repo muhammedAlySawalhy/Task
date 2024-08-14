@@ -29,4 +29,4 @@
  <h3>  
   backend uses express js as lightweight restfull framework bcrypt for hashing passwords in db,jsonwebtoken for authentiaction,socket io for websokcet cors,for handling accepted origins to communicate with dotenv for env vars 
  </h3>
-<h4>Thanks `Eng:Mohamed Ali`</h4>
+<h4>Thanks Eng:Mohamed Ali</h4>
