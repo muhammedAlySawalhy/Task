@@ -20,8 +20,8 @@
  <li>Admin account is inside .env file in backend ,I know it is a bad securoty practise to upload env file,but as I know of lack of your time I have put mongodb credentials and backned is already connected to it and also put admin account</li>
  </li>
  </ol>
-</h3>h3>
-#  LIBRARIES USED
+</h3>
+# LIBRARIES USED
  <h3>In frontend there is tailwind css ,axios to send http requests,react icons for icons,redux as global state ,react toastify,dotenv for env vars,socket io to connect to websocket channel and start direct communication with backend,testing library for testing:but:
   any official project should be well tested but as time and requesities of this task ther is no tests
  </h3>
