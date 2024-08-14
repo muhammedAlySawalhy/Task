@@ -8,7 +8,7 @@
 ### </ol>
 # Technical Practicies
 ### <ol>
-### <li>clean code ,`SOLID Princibles` are folowd in both backend and frontend
+### <li>clean code ,`SOLID Princibles` are followed in both backend and frontend
 ### </li>
 ### <li>backned uses `MVC` as a structural design pattern</li>
 ### <li>best practises are followed also because of lake of two days time that talk in creating this project ,I have worked hard but due to lack of time could some practices not followed and I apologize for this</li>
