@@ -21,9 +21,9 @@
 ### </li>
 ### </ol>
 # LIBRARIES USED
-### <h3>In frontend there is tailwind css ,axios to send http requests,react icons for icons,redux as global state ,react toastify,dotenv for env vars,socket io to connect to websocket channel and start direct communication with backend,testing library for testing:but<li>
+### <h3>In frontend there is tailwind css ,axios to send http requests,react icons for icons,redux as global state ,react toastify,dotenv for env vars,socket io to connect to websocket channel and start direct communication with backend,testing library for testing:but:
 ###  any official project should be well tested but as time and requesities of this task ther is no tests
-### </li></h3>
+### </h3>
 
 ### <h3>  
 ###  backend uses express js as lightweight restfull framework bcrypt for hashing passwords in db,jsonwebtoken for authentiaction,socket io for websokcet cors,for handling accepted origins to communicate with dotenv for env vars 
